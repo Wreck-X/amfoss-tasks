@@ -1,0 +1,1 @@
+completed staring amfoss repos with star-me
