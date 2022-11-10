@@ -49,9 +49,8 @@ def getMovie(message):
     if response.status_code:
         open('image.png','wb').write(response.content)
     photo = open('/home/wreck/Desktop/cinebot/task-04/image.png', 'rb')
-    bot.send_photo(chat_id, photo)
+    bot.send_photo(chat_id, photo,caption=send_)
     photo.close()
-    bot.reply_to(message, send_)
     row.append([json_['Title'],json_['Year'],json_['Released'],json_['imdbRating']])
     # TODO: 1.2 Get movie information from the API
     # TODO: 1.3 Show the movie information in the chat window
