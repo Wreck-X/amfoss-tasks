@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbBB1WsgsuWclxDzNJ+LPPu2NoxyxinDejiIUFeZFSOok2RKFDuZ7NzzA5azwkENCyXpbfeih/dhRNRbjrDiwA==",
+  "success": true,
+  "projectFilePath": "/home/wreck/Desktop/cinebot/task-05/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/wreck/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
