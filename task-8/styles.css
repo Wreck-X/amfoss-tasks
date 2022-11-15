@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {
+  background-color: #d67070; /* RED */
+  box-shadow: 10px 5px 5px #d67070;
+}
+
+.a {
+  background-color: #f150bc; /* PINK */
+  box-shadow: 10px 5px 5px #f150bc;
+}
+
+.s {
+  background-color: #ad59fc; /* PURPLE */
+  box-shadow: 10px 5px 5px #ad59fc;
+}
+
+.d {
+  background-color: #6563fa; /* BLUE */
+  box-shadow: 10px 5px 5px #6563fa;
+}
+
+.j {
+  background-color: #6eeeff; /* LIGHT BLUE */
+  box-shadow: 10px 5px 5px #6eeeff;
+}
+
+.k {
+  background-color: #69f77c; /* GREEN */
+  box-shadow: 10px 5px 5px #69f77c;
+}
+
+.l {
+  background-color: #fdff7c; /* YELLOW*/
+  box-shadow: 10px 5px 5px #fdff7c;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+}
