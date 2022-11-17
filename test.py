@@ -1,41 +1,37 @@
-a = [1,0,1,0]
-greatestindex = 0
-checkindex = 0
-solution = None
-while solution == None:
-    greatest = 0
-    for i in a:
-        if i > greatest:
-            greatest = i
-    greatestindex = a.index(greatest)
-    if greatestindex == 0:
-        if greatest == 1 and 0 not in a:
-            solution = "YES"
-        if greatest == 1 and 0 in a:
-            count = 0
-            wofstnum = a[1:]
-            for num in a[1:]:
-                if num == 0:
-                    count = count + 1
-            wofstnum.reverse
-            count2 = 0
-            for num2 in wofstnum:
-                if num2 != 0:
-                    solution = "NO"
-                    break
-                if num2 == 0:
-                    count2 = count2 + 1
-                    if count2 == count:
-                        solution = "YES"
+import math
+input = [*map(int,input().split())]
+num1 = input[0]
+num2 = input[1]
 
-        elif greatest != 1:
-            solution = "NO"
-    if greatestindex != 0:
-        if a[greatestindex-1] == 0:
-            solution = "NO"
-        if a[greatestindex-1] != 0:
-            a[greatestindex] = a[greatestindex] - a[greatestindex-1]
-        print(a)
-    if len(list(set(a))) == 1:
-        solution = "YES"
-print(solution)
+list_ = []
+divid = num2/num1
+remainder = num2%num1
+
+if remainder != 0:
+    print(-1)
+    exit()
+else: 
+    while divid % 2 == 0:
+        list_.append(2)
+        divid = divid /2
+    for i in range(3,int(math.sqrt(divid))+1,2):
+        while divid%i==0:
+            list_.append(i)
+            divid = divid/i
+    if divid > 2:
+        list_.append(divid)
+
+count2 = 0
+count3 = 0
+
+for i in list_:
+    if i not in [2,3]:
+        print(-1)
+        exit()
+
+for i in list_:
+    if i == 2:
+        count2 = count2 + 1
+    if i == 3:
+        count3 = count3 + 1
+print(count2 + count3)

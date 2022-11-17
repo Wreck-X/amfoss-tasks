@@ -1,36 +1,37 @@
 import math
-ai = [*map(int,input('').split())]
-firstnum = ai[0]
-secondnum = ai[1]
-
-
-divi = int(secondnum/firstnum)
+input = [*map(int,input().split())]
+num1 = input[0]
+num2 = input[1]
 
 list_ = []
-while divi % 2 == 0:
-    list_.append(2)
-    divi = divi/2
+divid = num2/num1
+remainder = num2%num1
 
-for i in range(3,int(math.sqrt(divi))+1,2):
-    while(divi % i == 0):
-        list_.append(i)
-        divi = divi/i
-if divi > 2:
-    list_.append(divi)
-
-if list_ == []:
+if remainder != 0:
     print(-1)
     exit()
+else: 
+    while divid % 2 == 0:
+        list_.append(2)
+        divid = divid /2
+    for i in range(3,int(math.sqrt(divid))+1,2):
+        while divid%i==0:
+            list_.append(i)
+            divid = divid/i
+    if divid > 2:
+        list_.append(divid)
 
+count2 = 0
+count3 = 0
 
-for j in list_:
-    if j not in [2,3]:
+for i in list_:
+    if i not in [2,3]:
         print(-1)
         exit()
 
-count2 = list_.count(2)
-count3 = list_.count(3)
-
-final = count2 + count3
-
-print(final)
+for i in list_:
+    if i == 2:
+        count2 = count2 + 1
+    if i == 3:
+        count3 = count3 + 1
+print(count2 + count3)
