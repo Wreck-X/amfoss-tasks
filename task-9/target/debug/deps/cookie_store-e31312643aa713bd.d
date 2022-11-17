@@ -1,0 +1,11 @@
+/home/wreck/Desktop/Projects/task_9/target/debug/deps/cookie_store-e31312643aa713bd.rmeta: /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/home/wreck/Desktop/Projects/task_9/target/debug/deps/cookie_store-e31312643aa713bd.d: /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs:

@@ -1,0 +1,12 @@
+/home/wreck/Desktop/Projects/task_9/target/debug/deps/regex_automata-ed09b8a3f9dca455.rmeta: /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/wreck/Desktop/Projects/task_9/target/debug/deps/regex_automata-ed09b8a3f9dca455.d: /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs:
+/home/wreck/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs:
