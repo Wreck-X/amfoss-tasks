@@ -30,6 +30,7 @@ func reset()js.Func{
 	foo := Document.GetElementById("int")
 res := js.FuncOf(func(this js.Value, args []js.Value) any {
 	foo.Set("innerHTML", "0")
+	Count = 0
 	return nil
 })
 return res
