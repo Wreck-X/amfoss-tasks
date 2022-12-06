@@ -1,7 +1,6 @@
 import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 import 'package:flame/components.dart';
-import 'dart:ui';
 import 'directions.dart';
 import 'package:flutter/services.dart';
 
