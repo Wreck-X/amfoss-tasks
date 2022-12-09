@@ -5,6 +5,7 @@ if nums[0] == nums[1]:
 if nums[0] < nums[1]:
     print(-1)
     exit()
+
 quotient = int(nums[0]/2) 
 remainder = nums[0]%2
 
@@ -18,7 +19,6 @@ for i in range(remainder):
 
 while set(list_) != {1}:
     if len(list_)%nums[1] == 0:
-
         print(len(list_))
         break
     elif len(list_)%nums[1] != 0:
