@@ -1,3 +1,9 @@
+# amfoss-tasks-
+# Hemanth Krishnakumar
+
+**Hi i am Hemanth from Kozhikode kerala currently at Amrita School of Engineering (CSE 2022)
+ and im interested in development and contributing to open source projects**
+
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Wreck-X/amfoss-tasks/tree/main/task-0)|Installing Ubuntu|Completed
