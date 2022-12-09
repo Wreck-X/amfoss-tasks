@@ -2,7 +2,7 @@
 # Hemanth Krishnakumar
 
 **Hi i am Hemanth from Kozhikode kerala currently at Amrita School of Engineering (CSE 2022)
- and im interested in development and contributing to open source projects**
+ and I am interested in development and contributing to open source projects**
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
