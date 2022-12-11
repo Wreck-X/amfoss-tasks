@@ -1,1 +1,1 @@
-Installation completed blog-myubuntuinstallation.wordpress.com
+Installation completed blog- myubuntuinstallation.wordpress.com
