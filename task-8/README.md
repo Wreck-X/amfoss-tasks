@@ -1,9 +1,3 @@
-# Getting started:
-
-<ol>
-  <li>Clone this repository into your local machine</li>
-  <li>Open the folder in an editor of your choice (Recommended - VS Code)</li>
-  <li>Download the Live Server extension in VS Code to instantly see your changes made to the website without refreshing the tab</li>
-</ol>
-
-<p>You can begin this task by referring to the READMEs given in the folders named Part-1,2,3,4</p>
+this task was pretty direct except for the javascript code 
+for which i just had to look up how play an audio file on clicking an element in the html
+and switch cases based on what element element was clicked

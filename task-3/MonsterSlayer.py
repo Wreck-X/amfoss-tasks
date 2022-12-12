@@ -7,6 +7,7 @@ for i in range(n):
     for i in list_:
         if i%firstelement != 0:
             flag = False
+
     if flag == True:
         print("YES")
     elif flag == False:

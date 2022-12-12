@@ -1,1 +1,1 @@
-completed task-6 attaching screenrecording in task-6 directory
+this one was a bit difficult as wasnt able to figure out the gesture controls and updating the state of the widget. but i managed to figure out the concept behind changiing the state of widgets and gesture controls after i attended the flutter workshop provided by amfoss

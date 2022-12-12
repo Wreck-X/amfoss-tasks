@@ -1,29 +1,17 @@
-t = int(input())
-if 1<= t<= 10**4:
-    for l in range(t):
-        n = int(input(""))
-        if 2 <= n and n <= 2*10**5:
-            a = list(map(float,input("").split()))
-            indexes = []
-            lastdigit = a.pop()
-            zerocount = 0
-            for i in a:
-                if i == 0:
-                    zerocount = zerocount + 1
-            if zerocount == len(a):
-                print(0)
-                continue
-            for j in a:
-                if j != 0:
-                    indexes.append(a.index(j))
-            firstnum = indexes[0]
-            finallist = a[firstnum:]
-            count = 0
-            for i in finallist:
-                if i == 0:
-                    count = count + 1
-            sum = 0
-            for num in finallist:
-                sum = sum + num
-            answer = sum + count
-            print(int(answer))
+n = int(input())
+for i in range(n):
+    meh = input()
+    values = input().split()
+    values.pop()
+    firstnum = None
+    for i in values:
+        if i != '0':
+            firstnum = values.index(i)
+            break
+    finallist = [*map(int,values[firstnum:])]
+    count0 = finallist.count(0)
+    if count0 == len(finallist):
+        print(0)
+        exit()
+    sum_ = sum(finallist)
+    print(count0 + sum_)
