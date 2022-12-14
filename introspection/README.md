@@ -1,11 +1,11 @@
 Why must we choose you?
 
-->I myself am not sure what my worth is, but all i know for certain is that i am willing to do anything and everything to learn anything thats interesting to me.
+->I myself am not sure what my worth is, but all i know for certain is that i am willing to do anything and everything to learn anything thats interesting to me. I shall also try and develop the club in anyway possible and hopefully make it a better version of what it is currently.
 
 What is your plan for the next 6 months?
 
 if i get into the club:
--> hopefully improve my coding and to get a grasp on develepment and try and get to contribute to preferably a good opensource project that im interested in.
+-> hopefully improve my coding and to get a grasp on develepment and try and get to contribute to y a good open source project that im interested in.
 -> try not to fail my exams
 -> have fun altogether
 
