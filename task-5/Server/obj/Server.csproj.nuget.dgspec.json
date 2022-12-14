@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wreck/Desktop/cinebot/task-05/Server/Server.csproj": {}
+    "/home/wreck/Desktop/Projects/task-5/Server/Server.csproj": {}
   },
   "projects": {
-    "/home/wreck/Desktop/cinebot/task-05/Server/Server.csproj": {
+    "/home/wreck/Desktop/Projects/task-5/Server/Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wreck/Desktop/cinebot/task-05/Server/Server.csproj",
+        "projectUniqueName": "/home/wreck/Desktop/Projects/task-5/Server/Server.csproj",
         "projectName": "Server",
-        "projectPath": "/home/wreck/Desktop/cinebot/task-05/Server/Server.csproj",
+        "projectPath": "/home/wreck/Desktop/Projects/task-5/Server/Server.csproj",
         "packagesPath": "/home/wreck/.nuget/packages/",
-        "outputPath": "/home/wreck/Desktop/cinebot/task-05/Server/obj/",
+        "outputPath": "/home/wreck/Desktop/Projects/task-5/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wreck/.nuget/NuGet/NuGet.Config"

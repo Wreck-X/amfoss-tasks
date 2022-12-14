@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/O/BMHBoI4fs1uIFGUO2Ni1OZFeJyr/7dnpDcVs0HivCVSfGC0vdTGBBYxtjmLXbJykDGSkeRaCXnnzWSfwvFQ==",
+  "dgSpecHash": "Qo/BhfknkmF7kNw/Ef5CPDTvHT1jDq0srrGDhrUkYJWO2FsrUI/yveBBZohzodYd7pJiDdUAqHs4WnHpduhPhg==",
   "success": true,
-  "projectFilePath": "/home/wreck/Desktop/cinebot/task-05/Client/Client.csproj",
+  "projectFilePath": "/home/wreck/Desktop/Projects/task-5/Client/Client.csproj",
   "expectedPackageFiles": [
     "/home/wreck/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
