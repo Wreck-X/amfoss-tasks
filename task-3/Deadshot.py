@@ -4,7 +4,6 @@ pairs = []
 for i in range(inp):
     pairs.append([*map(int,input().split())])
 
-
 n = 0
 list_ = []
 vantagelist = []
